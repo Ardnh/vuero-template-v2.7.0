@@ -159,9 +159,9 @@ watch(
         <LayoutsMobileSubsidebar
           v-if="isMobileSidebarOpen && activeMobileSubsidebar === 'layout'"
         />
-        <DashboardsMobileSubsidebar
+        <!-- <DashboardsMobileSubsidebar
           v-else-if="isMobileSidebarOpen && activeMobileSubsidebar === 'dashboard'"
-        />
+        /> -->
         <ComponentsMobileSubsidebar
           v-else-if="isMobileSidebarOpen && activeMobileSubsidebar === 'components'"
         />

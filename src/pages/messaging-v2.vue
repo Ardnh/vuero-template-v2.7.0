@@ -23,7 +23,7 @@ const conversations: conversationData[] = [
     name: 'Kelly Marston',
     role: 'Product Manager',
     avatar: {
-      picture: '/demo/avatars/11.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '20m',
     lastMessagePreview: 'What time was our meeting scheduled for?',
@@ -33,7 +33,7 @@ const conversations: conversationData[] = [
     name: 'Alejandro Badajoz',
     role: 'Business Analyst',
     avatar: {
-      picture: '/demo/avatars/39.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '24m',
     lastMessagePreview: 'Nah, I have a meeting that starts in 5.',
@@ -54,7 +54,7 @@ const conversations: conversationData[] = [
     name: 'Alice Carasca',
     role: 'Software Engineer',
     avatar: {
-      picture: '/demo/avatars/7.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '47m',
     lastMessagePreview: 'I like the curves in this one.',
@@ -64,7 +64,7 @@ const conversations: conversationData[] = [
     name: 'Irina Vierbovsky',
     role: 'Project Manager',
     avatar: {
-      picture: '/demo/avatars/23.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '56m',
     lastMessagePreview: 'I need some help on something Iam working on.',
@@ -74,7 +74,7 @@ const conversations: conversationData[] = [
     name: 'Mary Lebowski',
     role: 'Project Manager',
     avatar: {
-      picture: '/demo/avatars/5.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '1h',
     lastMessagePreview: 'Still down for that movie?',
@@ -84,7 +84,7 @@ const conversations: conversationData[] = [
     name: 'Esteban Castellanos',
     role: 'UI/UX Designer',
     avatar: {
-      picture: '/demo/avatars/18.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '1h',
     lastMessagePreview: 'I can send you the files.',
@@ -94,7 +94,7 @@ const conversations: conversationData[] = [
     name: 'Melany Wallace',
     role: 'Web Developer',
     avatar: {
-      picture: '/demo/avatars/25.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '2h',
     lastMessagePreview: 'I has some issues with the headers tough.',
@@ -104,7 +104,7 @@ const conversations: conversationData[] = [
     name: 'Jimmy Hector',
     role: 'Project Manager',
     avatar: {
-      picture: '/demo/avatars/22.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '3h',
     lastMessagePreview: 'When are you available?',
@@ -114,7 +114,7 @@ const conversations: conversationData[] = [
     name: 'Greta Kroppfer',
     role: 'Sales Manager',
     avatar: {
-      picture: '/demo/avatars/19.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '3h',
     lastMessagePreview: 'Thank you for you clean presentation, it was stunning.',
@@ -124,7 +124,7 @@ const conversations: conversationData[] = [
     name: 'Tara Svenson',
     role: 'UI/UX Designer',
     avatar: {
-      picture: '/demo/avatars/13.jpg',
+      picture: '/images/svg/vuero-1.svg',
     },
     lastMessage: '9h',
     lastMessagePreview: 'Hope you like them.',
@@ -464,62 +464,62 @@ useHead({
               </div>
               <div class="detail-photo-grid">
                 <img
-                  src="/demo/photos/demo-apps/1.jpg"
+                  src="/images/photo/video/poster/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/2.jpg"
+                  src="/images/photo/video/poster/2.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/3.jpg"
+                  src="/images/photo/video/poster/3.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/4.jpg"
+                  src="/images/photo/video/poster/4.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/5.jpg"
+                  src="/images/photo/video/poster/5.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/6.jpg"
+                  src="/images/photo/video/poster/6.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/7.jpg"
+                  src="/images/photo/video/poster/7.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/8.jpg"
+                  src="/images/photo/video/poster/8.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/9.jpg"
+                  src="/images/photo/video/poster/9.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/10.jpg"
+                  src="/images/photo/video/poster/9.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/11.jpg"
+                  src="/images/photo/video/poster/9.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />
                 <img
-                  src="/demo/photos/demo-apps/12.jpg"
+                  src="/images/photo/video/poster/9.jpg"
                   alt=""
                   @error.once="onceImageErrored(1600, 900)"
                 />

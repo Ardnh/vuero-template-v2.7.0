@@ -67,7 +67,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                 <div class="experience-wrapper">
                   <div class="experience-item">
                     <img
-                      src="/demo/photos/brands/airbnb.svg"
+                      src="/demo/photos/1.jpg"
                       alt=""
                       @error.once="onceImageErrored(150)"
                     />
@@ -83,7 +83,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   </div>
                   <div class="experience-item">
                     <img
-                      src="/demo/photos/brands/facebook.svg"
+                      src="/demo/photos/1.jpg"
                       alt=""
                       @error.once="onceImageErrored(150)"
                     />
@@ -99,7 +99,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   </div>
                   <div class="experience-item">
                     <img
-                      src="/demo/photos/brands/atlassian.svg"
+                      src="/demo/photos/1.jpg"
                       alt=""
                       @error.once="onceImageErrored(150)"
                     />
@@ -115,7 +115,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   </div>
                   <div class="experience-item">
                     <img
-                      src="/demo/photos/brands/github.svg"
+                      src="/demo/photos/1.jpg"
                       alt=""
                       @error.once="onceImageErrored(150)"
                     />

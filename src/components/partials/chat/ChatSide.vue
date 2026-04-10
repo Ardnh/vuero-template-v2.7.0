@@ -72,62 +72,62 @@ const chat = useChat()
         </div>
         <div class="detail-photo-grid">
           <img
-            src="/demo/photos/demo-apps/1.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/2.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/3.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/4.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/5.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/6.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/7.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/8.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/9.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/10.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/11.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />
           <img
-            src="/demo/photos/demo-apps/12.jpg"
+            src="/demo/photos/demo-apps/1.svg"
             alt=""
             @error.once="onceImageErrored(1600, 900)"
           />

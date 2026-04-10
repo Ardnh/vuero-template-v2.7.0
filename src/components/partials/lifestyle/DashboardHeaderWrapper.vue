@@ -6,11 +6,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
   <div class="dashboard-header-wrapper">
     <div class="dashboard-header">
       <div class="avatar-container">
-        <img
-          src="/demo/photos/faces/girl1.jpg"
-          alt=""
-          @error.once="onceImageErrored(150)"
-        />
+        <img src="/demo/photos/1.jpg" alt="" @error.once="onceImageErrored(150)" />
         <button class="button is-circle">
           <span class="icon is-small">
             <i aria-hidden="true" class="iconify" data-icon="feather:plus"></i>

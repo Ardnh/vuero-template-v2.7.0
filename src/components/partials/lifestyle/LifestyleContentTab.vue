@@ -207,7 +207,7 @@ import {
           <div class="card-image">
             <figure class="image is-4by3">
               <img
-                src="/demo/photos/30.jpg"
+                src="/demo/photos/1.jpg"
                 alt=""
                 @error.once="onceImageErrored(1280, 960)"
               />
@@ -217,28 +217,28 @@ import {
             <div class="post-group">
               <a>
                 <img
-                  src="/demo/photos/33.jpg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/34.jpg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/35.jpeg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/36.jpg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
@@ -263,7 +263,7 @@ import {
           <div class="card-image">
             <figure class="image is-4by3">
               <img
-                src="/demo/photos/31.png"
+                src="/demo/photos/1.jpg"
                 alt=""
                 @error.once="onceImageErrored(1280, 960)"
               />
@@ -273,28 +273,28 @@ import {
             <div class="post-group">
               <a>
                 <img
-                  src="/demo/photos/33.jpg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/34.jpg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/35.jpeg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/36.jpg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
@@ -319,7 +319,7 @@ import {
           <div class="card-image">
             <figure class="image is-4by3">
               <img
-                src="/demo/photos/32.jpg"
+                src="/demo/photos/1.jpg"
                 alt=""
                 @error.once="onceImageErrored(1280, 960)"
               />
@@ -329,28 +329,28 @@ import {
             <div class="post-group">
               <a>
                 <img
-                  src="/demo/photos/33.jpg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/34.jpg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/35.jpeg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/36.jpg"
+                  src="/demo/photos/1.jpg"
                   alt=""
                   @error.once="onceImageErrored(1280, 960)"
                 />

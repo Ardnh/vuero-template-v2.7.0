@@ -29,7 +29,7 @@ const dropdown2 = useDropdown(dropdownElement2)
     <div class="header-area">
       <img
         class="sender-pic"
-        src="/demo/avatars/25.jpg"
+        src="/demo/avatars/1.svg"
         alt=""
         @error.once="onceImageErrored(150)"
       />

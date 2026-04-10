@@ -186,11 +186,7 @@ const onSave = async () => {
           <template v-else>
             <!--Experience Item-->
             <div class="setting-item">
-              <img
-                src="/demo/photos/brands/airbnb.svg"
-                alt=""
-                @error.once="onceImageErrored(50)"
-              />
+              <img src="/demo/photos/1.jpg" alt="" @error.once="onceImageErrored(50)" />
               <div class="meta">
                 <span class="dark-inverted">Airbnb HQ</span>
                 <span>
@@ -207,11 +203,7 @@ const onSave = async () => {
 
             <!--Experience Item-->
             <div class="setting-item">
-              <img
-                src="/demo/photos/brands/facebook.svg"
-                alt=""
-                @error.once="onceImageErrored(50)"
-              />
+              <img src="/demo/photos/1.jpg" alt="" @error.once="onceImageErrored(50)" />
               <div class="meta">
                 <span class="dark-inverted">Facebook</span>
                 <span>
@@ -228,11 +220,7 @@ const onSave = async () => {
 
             <!--Experience Item-->
             <div class="setting-item">
-              <img
-                src="/demo/photos/brands/atlassian.svg"
-                alt=""
-                @error.once="onceImageErrored(50)"
-              />
+              <img src="/demo/photos/1.jpg" alt="" @error.once="onceImageErrored(50)" />
               <div class="meta">
                 <span class="dark-inverted">Atlassian</span>
                 <span>
@@ -249,11 +237,7 @@ const onSave = async () => {
 
             <!--Experience Item-->
             <div class="setting-item">
-              <img
-                src="/demo/photos/brands/github.svg"
-                alt=""
-                @error.once="onceImageErrored(50)"
-              />
+              <img src="/demo/photos/1.jpg" alt="" @error.once="onceImageErrored(50)" />
               <div class="meta">
                 <span class="dark-inverted">Github</span>
                 <span>
@@ -270,11 +254,7 @@ const onSave = async () => {
 
             <!--Experience Item-->
             <div class="setting-item">
-              <img
-                src="/demo/photos/brands/slack.svg"
-                alt=""
-                @error.once="onceImageErrored(50)"
-              />
+              <img src="/demo/photos/1.jpg" alt="" @error.once="onceImageErrored(50)" />
               <div class="meta">
                 <span class="dark-inverted">Slack</span>
                 <span>
@@ -291,11 +271,7 @@ const onSave = async () => {
 
             <!--Experience Item-->
             <div class="setting-item">
-              <img
-                src="/demo/photos/brands/gitlab.svg"
-                alt=""
-                @error.once="onceImageErrored(50)"
-              />
+              <img src="/demo/photos/1.jpg" alt="" @error.once="onceImageErrored(50)" />
               <div class="meta">
                 <span class="dark-inverted">Gitlab</span>
                 <span>

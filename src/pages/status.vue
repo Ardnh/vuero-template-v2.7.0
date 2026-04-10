@@ -45,7 +45,7 @@ useHead({
           <div class="list-block">
             <div class="icon-wrap">
               <img
-                src="/demo/photos/animaticons/lightbulb.gif"
+                src="/demo/photos/animaticons/image.svg"
                 alt=""
                 @error.once="onceImageErrored(150)"
               />
@@ -69,7 +69,7 @@ useHead({
           <div class="list-block api">
             <div class="icon-wrap">
               <img
-                src="/demo/photos/animaticons/image.gif"
+                src="/demo/photos/animaticons/image.svg"
                 alt=""
                 @error.once="onceImageErrored(150)"
               />
@@ -93,7 +93,7 @@ useHead({
           <div class="list-block">
             <div class="icon-wrap">
               <img
-                src="/demo/photos/animaticons/search.gif"
+                src="/demo/photos/animaticons/image.svg"
                 alt=""
                 @error.once="onceImageErrored(150)"
               />
@@ -117,7 +117,7 @@ useHead({
           <div class="list-block">
             <div class="icon-wrap">
               <img
-                src="/demo/photos/animaticons/diamond.gif"
+                src="/demo/photos/animaticons/image.svg"
                 alt=""
                 @error.once="onceImageErrored(150)"
               />
@@ -141,7 +141,7 @@ useHead({
           <div class="list-block api">
             <div class="icon-wrap">
               <img
-                src="/demo/photos/animaticons/chart.gif"
+                src="/demo/photos/animaticons/image.svg"
                 alt=""
                 @error.once="onceImageErrored(150)"
               />
@@ -165,7 +165,7 @@ useHead({
           <div class="list-block api">
             <div class="icon-wrap">
               <img
-                src="/demo/photos/animaticons/rocket.gif"
+                src="/demo/photos/animaticons/image.svg"
                 alt=""
                 @error.once="onceImageErrored(150)"
               />
@@ -189,7 +189,7 @@ useHead({
           <div class="list-block">
             <div class="icon-wrap">
               <img
-                src="/demo/photos/animaticons/check.gif"
+                src="/demo/photos/animaticons/image.svg"
                 alt=""
                 @error.once="onceImageErrored(150)"
               />
